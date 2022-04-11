@@ -11,6 +11,7 @@ export default function TelaConsole() {
         <Text>O Casal</Text>
         <Text>Homer Jay Simpson é o pai e patriarca da família Simpsons.</Text>
         <Text>Marjorie Jacqueline "Marge" Bouvier Simpson é a esposa de Homer Simpson e mãe de Lisa, Bart e Maggie Simpson na série animada Os Simpsons.</Text>
+        <Text>vou fazer um teste de git adicionando esta linha</Text>
       </View>
 
    
