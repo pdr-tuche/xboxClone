@@ -6,7 +6,7 @@ import styles from './Style';
 import serieS from "../../assets/imagens/console-1.png";
 import serieX from "../../assets/imagens/console-2.png"
 
-export default function TelaConsole() {
+export default function TelaConsole(props) {
   return (
     <ScrollView style={styles.container}>
       <View style = {styles.box}>

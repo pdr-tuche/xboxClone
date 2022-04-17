@@ -12,7 +12,7 @@ import Cyber from "../../assets/imagens/jogo-2.png";
 import { ScrollView } from 'react-native-gesture-handler';
 
 
-export default function TelaJogo() {
+export default function TelaJogo(props) {
     return(
         <ScrollView>
             <View style = {styles.pagina}>

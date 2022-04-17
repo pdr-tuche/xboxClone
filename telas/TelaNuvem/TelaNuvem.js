@@ -7,7 +7,7 @@ import styles from './Style';
 import background from '../../assets/imagens/fundo-xcloud.png';
 import games from '../../assets/imagens/xcloud-2.png';
 
-export default function TelaNuvem() {
+export default function TelaNuvem(props) {
     return(
         <ImageBackground source = {background} style = {styles.img}>
             <View>
