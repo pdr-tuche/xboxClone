@@ -1,7 +1,7 @@
 # xboxClone
 Com o conhecimento sobre React Native que adiquiri nas ultimas semanas no curso de React Native do <a href="https://www.devmedia.com.br">DevMedia</a>, decidi por em prática neste projeto o qual estilizei quatro telas separadamente e utilizei o stack navigation da biblioteca `@react-navigation/stack` para fazer a conexão entre as páginas.
 <b><p align = "center">Telas que usei de referencia:</p></b>
-<div display = "flex" align = "center">
+<div display = "flex" flex-wrap="nowrap" align = "center">
   <img src = "https://github.com/pdr-tuche/xboxClone/blob/main/assets/imagens/fotoTelas/tela-inicial.jpeg" width = "200px">
   <img src = "https://github.com/pdr-tuche/xboxClone/blob/main/assets/imagens/fotoTelas/tela-consoles.jpeg" width = "200px">
   <img src = "https://github.com/pdr-tuche/xboxClone/blob/main/assets/imagens/fotoTelas/tela-jogos-1.jpeg" width = "200px">
