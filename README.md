@@ -121,7 +121,4 @@ Após a estilização dos componentes (telas), criei conexões entre os cards da
 
 Toda a estilização individual das telas encontram-se nos arquivos `Style.js` presentes na pasta <a href= "https://github.com/pdr-tuche/xboxClone/tree/main/telas">telas</a>
 
-o resultado final é possivel ver no <a href= "https://www.youtube.com/watch?v=eQ34eIrTPPw">youtube</a>:
-
-
-[![texto](./imagensReadme/youtubeicon.png)](https://www.youtube.com/watch?v=eQ34eIrTPPw "youtube")
+o resultado final é possivel ver no <a href= "https://www.youtube.com/watch?v=eQ34eIrTPPw">youtube<img src="./imagensReadme/youtubeicon.png" width = "50px"></a>
