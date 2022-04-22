@@ -1,5 +1,5 @@
 # xboxClone
-Com o conhecimento sobre React Native que adiquiri nas ultimas semanas no curso de React Native do <a href="https://www.devmedia.com.br">DevMedia</a>, decidi por em prática neste projeto o qual estilizei quatro telas separadamente e utilizei o stack navigation da biblioteca `@react-navigation/stack` para fazer a conexão entre as páginas.
+Decidi pôr em prática, por meio deste projeto, o conhecimento sobre Reactive Native que adquiri nas últimas semanas do curso de Reactive Native do <a href="https://www.devmedia.com.br">DevMedia</a>. Para tanto, estilizei quatro telas separadamente e utilizei o stack navigation da biblioteca `@react-navigation/stack` para fazer a conexão entre as páginas.
 <b><p align = "center">Telas que usei de referencia:</p></b>
 <div display = "flex" flex-wrap="nowrap" align = "center">
   <img src = "https://github.com/pdr-tuche/xboxClone/blob/main/assets/imagens/fotoTelas/tela-inicial.jpeg" width = "150px">
@@ -11,10 +11,10 @@ Com o conhecimento sobre React Native que adiquiri nas ultimas semanas no curso 
 
 <br>
 
-<p> Primeiro, iniciei criando as Rotas para as telas se comunicarem</p>
+<p> Inicialmente, criei rotas em App.js para as telas se comunicarem.</p>
   <p>criando rotas em <a href= "https://github.com/pdr-tuche/xboxClone/blob/main/App.js">App.js</a>: </p>
   
-  
+
 ~~~javascript  
      const Stack = createStackNavigator();
 
@@ -33,7 +33,7 @@ Com o conhecimento sobre React Native que adiquiri nas ultimas semanas no curso 
       };  
 ~~~
     
-Após a estilização dos componentes (telas), criei conexões entre os cards da tela inicial às suas respectivas telas através de funções implementadas nos própios cards.
+Após a estilização dos componentes (telas), criei conexões entre os cards da tela inicial e as suas respectivas telas por meio de funções implementadas nos próprios cards.
 <div display = "flex" >
   <p> criando conexões em <a href = "https://github.com/pdr-tuche/xboxClone/tree/main/telas/TelaInicial"> TelaInicial</a>:</p>
 
@@ -56,6 +56,6 @@ Após a estilização dos componentes (telas), criei conexões entre os cards da
     </View>
 ~~~
 
-Toda a estilização individual das telas encontram-se nos arquivos `Style.js` presentes na pasta <a href= "https://github.com/pdr-tuche/xboxClone/tree/main/telas">telas</a>
+Toda a estilização individual das telas encontra-se nos arquivos `Style.js` presentes na pasta <a href= "https://github.com/pdr-tuche/xboxClone/tree/main/telas">telas</a>
 
-o resultado final é possivel ver no <a href= "https://www.youtube.com/watch?v=eQ34eIrTPPw">youtube<img src="./imagensReadme/youtubeicon.png" width = "50px"></a>
+É possivel ver o resultado final no <a href= "https://www.youtube.com/watch?v=eQ34eIrTPPw">youtube<img src="./imagensReadme/youtubeicon.png" width = "50px"></a>
